@@ -1,2 +1,1 @@
-# homework1
-HW #1
+SEO web standards 
